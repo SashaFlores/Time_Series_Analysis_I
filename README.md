@@ -36,6 +36,7 @@ In Time Series Data, Data needs to be sliced and diced at various time frequenci
 
 4-  resample function rules:
 [resample function rules/stackoverflow](https://stackoverflow.com/questions/17001389/pandas-resample-documentation)
+
 5- Numpy Array Reshaping:
 [Numpy Array Reshaping with Examples](https://www.w3schools.com/python/numpy_array_reshape.asp)
 
